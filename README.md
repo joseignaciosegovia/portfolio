@@ -84,8 +84,8 @@ Configuración de despliegue:
 
 Si quieres contactar conmigo o conocer más sobre mi trabajo:
 
-- **GitHub:** [Tu perfil de GitHub](https://github.com/joseignaciosegovia)
-- **Email:** [Tu correo electrónico](mailto:josegoviaramirez@gmail.com)
+- **GitHub:** [joseignaciosegovia](https://github.com/joseignaciosegovia)
+- **Email:** [josegoviaramirez@gmail.com](mailto:josegoviaramirez@gmail.com)
 
 ---
 

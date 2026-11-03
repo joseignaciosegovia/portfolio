@@ -26,7 +26,7 @@ const projects = [
     technologies: ["Laravel", "Livewire", "Stripe", "PHPUnit", "MySQL"],
     demo: "https://sports-court-booking-1.onrender.com/",
     github: "https://github.com/joseignaciosegovia/sports-court-booking",
-    image: "/public/images/project-preview.png",
+    image: "/images/project-preview.png",
   },
 ];
 
@@ -118,7 +118,7 @@ function Hero() {
 
       <div className="hero-image">
         <img
-          src="/public/images/foto-perfil.jpg"
+          src="/images/foto-perfil.jpg"
           alt={`Fotografía de ${profile.name}`}
         />
         <div className="image-decoration" />

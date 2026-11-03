@@ -6,7 +6,7 @@ Portfolio personal de desarrollador web, creado para presentar mi perfil profesi
 
 ## 📸 Vista previa
 
-![Portfolio](./public/docs/portfolio-preview.png)
+![Portfolio](./docs/portfolio-preview.png)
 
 ## 🚀 Tecnologías utilizadas
 

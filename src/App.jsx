@@ -38,7 +38,7 @@ function Navbar() {
   return (
     <header className="navbar">
       <a className="logo" href="#inicio" onClick={closeMenu}>
-        {profile.name.split(" ")[0]}<span>.</span>
+        {profile.name}<span>.</span>
       </a>
 
       <button

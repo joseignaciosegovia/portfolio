@@ -52,9 +52,9 @@ function Navbar() {
 
       <nav className={menuOpen ? "nav-links open" : "nav-links"}>
         {[
-          ["Sobre mí", "#sobre-mi"],
           ["Tecnologías", "#tecnologias"],
           ["Proyectos", "#proyectos"],
+          ["Sobre mí", "#sobre-mi"],
           ["Contacto", "#contacto"],
         ].map(([label, href]) => (
           <a key={href} href={href} onClick={closeMenu}>
@@ -289,9 +289,9 @@ function App() {
       <Navbar />
       <main>
         <Hero />
-        <About />
         <Skills />
         <Projects />
+        <About />
         <Contact />
       </main>
       <Footer />

@@ -116,13 +116,6 @@ function Hero() {
         </div>
       </div>
 
-      <div className="hero-image">
-        <img
-          src="/images/foto-perfil.jpg"
-          alt={`Fotografía de ${profile.name}`}
-        />
-        <div className="image-decoration" />
-      </div>
     </section>
   );
 }

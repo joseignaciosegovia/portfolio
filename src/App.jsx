@@ -11,7 +11,7 @@ const profile = {
 
 const skillGroups = [
   { title: "Front-end", items: ["HTML5", "CSS3", "JavaScript", "Bootstrap", "React (este portfolio)"] },
-  { title: "Back-end", items: ["PHP", "Laravel", "Livewire", "Volt", "Stripe"] },
+  { title: "Back-end", items: ["PHP", "Laravel", "Livewire", "Volt", "Blade", "Stripe"] },
   { title: "Bases de datos", items: ["MySQL", "PostgreSQL", "SQLite"] },
   { title: "Testing y calidad", items: ["PHPUnit", "Mockery", "GitHub Actions"] },
   { title: "Herramientas", items: ["Git", "GitHub", "Docker", "Composer", "Render"] },
